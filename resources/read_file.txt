@@ -1,0 +1,3 @@
+Sono un file di testo!
+
+Non molto utile ma se mi leggi è tutto ok
